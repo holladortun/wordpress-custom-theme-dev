@@ -32,7 +32,7 @@
     "gulp-strip-debug": "^5.0.0",
     "gulp-uglify": "^3.0.2",
     "gulp-wp-pot": "^2.5.0",
-    "sharp": "^0.32.1"
+    "sharp": "^0.35.5"
   },
   "browserslist": [
     "> 1%",
